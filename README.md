@@ -12,6 +12,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 This Power BI project presents an in-depth analysis of Adidas' sales performance through interactive reports, helping to uncover key trends, regional insights, profitability metrics, and product performance. 
 
 ### Reports Included:
@@ -33,12 +34,14 @@ This Power BI project presents an in-depth analysis of Adidas' sales performance
  - DAX & Power Query – For data transformation and calculated measures.
 
 ### Data Cleaning/Preperation
+---
 In the initial data prepration phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handeling missing values.
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis
+---
 
 EDA involved exploring the sales dat to answer key questions, such as:
  - Which regions and stores contribute the most to total sales?
@@ -48,6 +51,7 @@ EDA involved exploring the sales dat to answer key questions, such as:
  - Which product categories perform the best in different regions?
 
 ### Results/Findings
+---
 The analysis results summarized as follows:
  1. **Men’s Street Footwear** emerged as the most profitable product category, generating the highest margins.
  2. **The In-Store Sales** method outperformed all other channels, driving the highest total sales and operating profit.
@@ -55,7 +59,7 @@ The analysis results summarized as follows:
  4. **Amazon** stood out as the top-performing retailer, contributing the highest sales volume.
 
 ### Recommendations  
-
+---
 Based on the analysis findings, the following strategic recommendations are proposed:  
 
 1. **Expand the Men’s Street Footwear Line** – Given its high profitability, the company should consider introducing new designs, limited editions, or premium versions to capitalize on customer demand.  
@@ -66,3 +70,5 @@ Based on the analysis findings, the following strategic recommendations are prop
 
 4. **Leverage Amazon for Greater Sales Opportunities** – As the top-performing retailer, collaborating with Amazon for exclusive product launches, targeted advertising, and optimized inventory management can maximize sales potential.  
 
+😄  
+💻
